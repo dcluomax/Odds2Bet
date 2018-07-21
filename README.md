@@ -5,7 +5,7 @@ The concept is fairly simple:
 
 Game A and Game B have different betting ratios, 
 by strategically betting placing, 
-you can calcualte a way to ensure 100% profit. 
+you can calculate a way to ensure 100% profit. 
 
 How to run:
 
